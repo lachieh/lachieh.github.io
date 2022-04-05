@@ -10,7 +10,10 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Google search results) and in your feed.xml site description.
 show_excerpts: true # set to true to show excerpts on the homepage
 texture:
-  # update your name
+  # change the color if you like
+  style: black # yellow, red, black, blue, green, purple
+  
+  # update your name and title
   title: Ada Lovelace
   tagline: Web Developer
   date_format: "%b %-d, %Y"
@@ -19,4 +22,4 @@ texture:
   social_links:
     twitter: dgtlcrafts
     github:  digitalcrafts
-    linkedIn: in/digitalcrafts # format: locale/username
+    linkedIn: in/digitalcrafts # format: in/username
